@@ -10,7 +10,7 @@
 
     <link rel="stylesheet" href="{{ asset('bootstrap/bootstrap.min.css') }}">
     <link rel="stylesheet" href="{{ asset('datatable/css/dataTables.bootstrap.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('datatable/css/dataTables.bootstrap4.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('datatable/css/dataTables.bootstrap5.min.css') }}">
     <link rel="stylesheet" href="{{ asset('sweetalert2/sweetalert2.min.css') }}">
     <link rel="stylesheet" href="{{ asset('toastr/toastr.min.css') }}">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.0/font/bootstrap-icons.css">
